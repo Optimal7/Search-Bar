@@ -13,3 +13,5 @@ I feel good about the result since its my first program with it.
 
 ## Other
 If you would like to contribute to this ~~useless~~ project you can simply make a Pull Request and improve this, if you would like to.
+
+And also if you use this project make sure to credit me.
