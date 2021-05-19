@@ -1,4 +1,4 @@
-# A Simple Search Bar
+# Simple Search Bar
 Here is a really simple search bar I made in Python, with Tkinker (First program I made with this!)
 It is just a very stupid thing I made. (I don't know why)
 
