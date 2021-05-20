@@ -4,6 +4,8 @@ It is just a very stupid thing I made. (I don't know why)
 
 You can use this to copy and paste links into a search box and it will open the link in Chrome. (When you can do it yourself in 3 seconds)
 
+<img src="imagemd/1.png">
+
 ## Setup
 To use this mess of a project you just need to download [Python](www.python.org/downloads/).
 
